@@ -1,3 +1,11 @@
+Please note when you clone it, please run
+
+#npm install otherwise you will get ERR Code where there would be suggestion that node-modules missing inside project folders.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
