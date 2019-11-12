@@ -1,4 +1,4 @@
-Please note when you clone it, please run
+Please note when you clone it, please run.
 
 #npm install otherwise you will get ERR Code where there would be suggestion that node-modules missing inside project folders.
 
